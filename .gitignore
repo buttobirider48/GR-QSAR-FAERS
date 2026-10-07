@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific input data
+/data/*
+!/data/README.md
+
+# Project-specific generated results
+/results/*
+!/results/README.md
