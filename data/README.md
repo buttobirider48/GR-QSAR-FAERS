@@ -2,9 +2,9 @@
 
 Place the following input files in this directory before running the notebook:
 
-- `20260407_BDB_GR_cSMILES_pKi_dedup_descriptors_computed.csv`
-- `20260430_FAERS2025_druglist_cSMILES_real_pKi.csv`
-- `20260430_FAERS2025_druglist_real_pKi_predict_descriptors.csv`
+- `bindingdb_gr_training_descriptors.csv`
+- `faers_drugs_smiles_measured_pki.csv`
+- `faers_drugs_prediction_descriptors.csv`
 
 The input datasets are not included in this repository.
 
