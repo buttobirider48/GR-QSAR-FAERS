@@ -24,6 +24,7 @@ GR-QSAR-FAERS/
 ├── .gitignore
 ├── LICENSE
 └── README.md
+```
 
 ## Analysis workflow
 
