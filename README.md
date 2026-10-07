@@ -54,6 +54,13 @@ The original BindingDB and FAERS source data are not included in this repository
 1. Clone or download this repository.
 2. Place the required input files in the `data` directory.
 3. Install the required Python packages.
+
+Install the required packages using:
+
+```bash
+pip install -r requirements.txt
+```
+
 4. Open the notebook in the `notebooks` directory.
 5. Run the notebook cells in order.
 
