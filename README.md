@@ -21,6 +21,7 @@ GR-QSAR-FAERS/
 │   └── README.md
 ├── .gitignore
 ├── LICENSE
+├── requirements.txt
 └── README.md
 ```
 
