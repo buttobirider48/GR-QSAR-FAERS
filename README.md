@@ -4,11 +4,9 @@ Machine-learning classification of glucocorticoid receptor affinity and applicat
 
 ## Overview
 
-This repository contains the analysis notebook used to develop a machine-learning model for classifying compounds with high affinity for the human glucocorticoid receptor (GR) and to apply the resulting model to drug structures identified in the FDA Adverse Event Reporting System (FAERS).
+This repository contains the Python code used for model development, applicability-domain assessment, SHAP-based model interpretation, and prediction of GR affinity classes for FAERS drug structures. FAERS disproportionality analyses, including the main analysis, applicability-domain sensitivity analysis, route-restricted subgroup analysis, volcano plots, and summary tables, were performed using JMP Student Edition and are described in the accompanying manuscript. The numerical results underlying these analyses are reported in the accompanying manuscript and Supporting Information.
 
 High GR affinity was operationally defined as pKi ≥ 8.0. The model was developed using molecular descriptors and evaluated using nested cross-validation. The applicability domain was assessed before interpreting predictions for FAERS drug structures.
-
-This repository provides the model-development and drug-prediction workflow. The disproportionality analysis of adverse event reports was conducted separately and is described in the accompanying manuscript.
 
 ## Repository structure
 
